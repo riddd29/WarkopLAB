@@ -53,7 +53,7 @@ WarkopLAB adalah platform LMS (Learning Management System) modern berbasis Sprin
 
 ```bash
 # Clone repositori
-git clone https://github.com/username/warkoplab.git
+git clone https://github.com/riddd29/WarkopLAB.git
 cd warkoplab
 
 # Jalankan aplikasi
