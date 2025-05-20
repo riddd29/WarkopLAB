@@ -2,10 +2,10 @@
 
 <h3 align="left">Connect With Us:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faridmaulanayusuf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faridmaulanayusuf/" height="30" width="40" /></a> Farid Maulana Yusuf
+<a href="https://linkedin.com/in/faridmaulanayusuf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faridmaulanayusuf/" height="30" width="40" /></a> Farid Maulana Yusuf
 <br>
 <br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aristyaandhika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aristyaandhika/" height="30" width="40" /></a> Muhamad Andhika Aristya Ridwan
+<a href="https://linkedin.com/in/aristyaandhika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aristyaandhika/" height="30" width="40" /></a> Muhamad Andhika Aristya Ridwan
 <br>
 <br>
 <a href="https://instagram.com/ridd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridd_" height="30" width="40" /></a> Farid
