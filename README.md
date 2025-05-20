@@ -20,7 +20,7 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#Intro_Duls)
 - [Features](#features)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
@@ -29,9 +29,11 @@
 - [Sponsors](#sponsors-)
 - [Acknowledgments](#acknowledgments)
 
-## Intro dulu
+## Intro Duls
+| [<img src="https://avatars.githubusercontent.com/u/212610633?v=4" width="100px;"/><br /><sub><b>Muhamad Andhika Aristya R</b></sub>]
+| [<img src="https://avatars.githubusercontent.com/u/151590619?v=4" width="100px;"/><br /><sub><b>Farid Maulana Yusuf</b></sub>]
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
+
 
 WarkopLAB adalah platform LMS x AI (_Learning Management System_) berbasis Spring Boot yang dirancang untuk menghadirkan kemudahan pembelajaran daring.
 
