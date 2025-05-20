@@ -1,8 +1,42 @@
-<h1 align="center">☕ WarkopLAB</h1>
+<h1 align="center"> ☕ WarkopLAB </h1> <br>
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+  </a>
+</p>
 
-WarkopLAB adalah platform LMS (Learning Management System) modern berbasis Spring Boot yang dirancang untuk menghadirkan kemudahan pembelajaran daring, ditambah kemampuan integrasi AI untuk meningkatkan pengalaman belajar pengguna.
+<p align="center">
+  Ngopi di betuah ga sia sia. Terbuat dari kesabaran.
+</p>
+
+<p align="center">
+  <a href="">
+    <img alt="(soon ya) Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+  </a>
+  <a href="">
+    <img alt="(soon ya) Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+  </a>
+</p>
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
+- [Backers](#backers-)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
+
+## Intro dulu
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
+
+WarkopLAB adalah platform LMS x AI (_Learning Management System_) berbasis Spring Boot yang dirancang untuk menghadirkan kemudahan pembelajaran daring.
 
 ---
+
 
 ## Connect With Us
 ### Farid
