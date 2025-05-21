@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
         <action>
-            <actionName>test</actionName>
-            <preAction>build-with-dependencies</preAction>
-            <packagings>
-                <packaging>*</packaging>
-            </packagings>
-            <goals>
-                <goal>test</goal>
-            </goals>
-        </action>
-        <action>
-            <actionName>test.single</actionName>
-            <preAction>build-with-dependencies</preAction>
-            <packagings>
-                <packaging>*</packaging>
-            </packagings>
-            <goals>
-                <goal>process-test-classes</goal>
-                <goal>surefire:test</goal>
-            </goals>
-            <properties>
-                <test>${packageClassName}</test>
-            </properties>
-        </action>
-        <action>
             <actionName>run</actionName>
-            <preAction>build-with-dependencies</preAction>
             <packagings>
                 <packaging>jar</packaging>
             </packagings>
