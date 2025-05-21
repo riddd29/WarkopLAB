@@ -20,7 +20,7 @@
 
 ## Table of Contents
 
-- [Introduction](#Intro_Duls)
+- [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
@@ -29,7 +29,101 @@
 - [Sponsors](#sponsors-)
 - [Acknowledgments](#acknowledgments)
 
-## Intro Duls
+## Introduction
+
+WarkopLAB adalah platform LMS x AI (_Learning Management System_) berbasis Spring Boot yang dirancang untuk menghadirkan kemudahan pembelajaran daring.
+
+**SOON BISMILLAH Available for both iOS and Android.**
+
+<p align="center">
+  <img src = "https://i.imgur.com/1a15nkD.png" width=350> 
+</p> 
+
+
+# Learning Management System x AI (ChatGPT)
+
+---
+## ✨ Fitur
+
+- 🔐 Autentikasi dan otorisasi pengguna (Mahasiswa & Admin)
+- 📚 Manajemen kursus dan materi pembelajaran
+- 🧠 Dukungan fitur AI (evaluasi, umpan balik, dll)
+- 📊 Pelacakan progres belajar & nilai
+- ⚙️ Arsitektur modular dan mudah di-scale
+- 📦 API berbasis RESTful
+
+---
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+<!-- Java -->
+* </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+* <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+* <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+* <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+* <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+* <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🧱 Languages and Tools
+<p align="left">    </p> 
+
+| Kategori        | Teknologi                         |
+|----------------|-----------------------------------|
+| Backend         | Spring Boot, Spring Web, Spring Security, Spring Data JPA |
+| Database        | MySQL                             | 
+| ORM             | Hibernate (via Spring Data JPA)   |
+| Dev Tools       | Lombok, Spring Boot DevTools      |
+| Testing         | JUnit, Spring Test                |
+| Build Tool      | Maven                             |
+
+---
+
+## Getting Started
+
+### _Prerequisites._
+
+- **Java 17** or higher  
+  [Download Java](https://www.oracle.com/java/technologies/downloads/)
+
+- **Apache Maven**  
+  [Download Maven](https://maven.apache.org/download.cgi)
+
+- **MySQL Database Server**  
+  Ensure MySQL is installed and running. Create a new database for the project.
+
+- **IDE (Optional but recommended)**  
+  Optionally, you may also install a code editor like VS Code.
+
+### _Installation._
+1. Clone the repo
+   ```sh
+   git clone https://github.com/riddd29/WarkopLAB.git
+   ```
+   
+2. Build and Run the Project (with Maven)
+   ```sh
+   ./mvnw clean install
+   ./mvnw spring-boot:run
+   ```
+   Or in your IDE:
+   - Import the project as a Maven project
+   - Run the main class: `WarkopLabApplication.java` 
+
+3. Access the Application  
+  Once the application starts successfully, open your browser and go to:
+   
+   ```sh
+   http://localhost:8080
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Backers
+
+Thank you to all our backers! 🙏
 
 <table align="center" border="0">
   <tr>
@@ -56,55 +150,6 @@
   </tr>
 </table>
 
-WarkopLAB adalah platform LMS x AI (_Learning Management System_) berbasis Spring Boot yang dirancang untuk menghadirkan kemudahan pembelajaran daring.
+## Acknowledgments
 
-**SOON BISMILLAH Available for both iOS and Android.**
-
-<p align="center">
-  <img src = "https://i.imgur.com/1a15nkD.png" width=350> 
-</p> 
-
-# Learning Management System x AI (ChatGPT)
-
----
-## ✨ Fitur
-
-- 🔐 Autentikasi dan otorisasi pengguna (Mahasiswa & Admin)
-- 📚 Manajemen kursus dan materi pembelajaran
-- 🧠 Dukungan fitur AI (evaluasi, umpan balik, dll)
-- 📊 Pelacakan progres belajar & nilai
-- ⚙️ Arsitektur modular dan mudah di-scale
-- 📦 API berbasis RESTful
-
----
-
-## 🧱 Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p> 
-
-| Kategori        | Teknologi                         |
-|----------------|-----------------------------------|
-| Backend         | Spring Boot, Spring Web, Spring Security, Spring Data JPA |
-| Database        | MySQL                             | 
-| ORM             | Hibernate (via Spring Data JPA)   |
-| Dev Tools       | Lombok, Spring Boot DevTools      |
-| Testing         | JUnit, Spring Test                |
-| Build Tool      | Maven                             |
-
----
-
-## 🚀 How To Run?
-
-### Prasyarat
-- Java 17 atau lebih tinggi
-- Maven
-- MySQL (dengan skema dan user yang sesuai)
-
-### Langkah-Langkah
-
-```bash
-# Clone repositori
-git clone https://github.com/riddd29/WarkopLAB.git
-cd warkoplab
-
-# Jalankan aplikasi
-./mvnw spring-boot:run
+This project would not have been possible without the inspiration and academic mentorship of Pak Angga. Thank you for guiding us with both knowledge and heart.
