@@ -66,4 +66,18 @@
                 <jpda.stopclass>${packageClassName}</jpda.stopclass>
             </properties>
         </action>
+        <action>
+            <actionName>test.single</actionName>
+            <preAction>build-with-dependencies</preAction>
+            <packagings>
+                <packaging>*</packaging>
+            </packagings>
+            <goals>
+                <goal>process-test-classes</goal>
+                <goal>surefire:test</goal>
+            </goals>
+            <properties>
+                <test>${packageClassName}</test>
+            </properties>
+        </action>
     </actions>
