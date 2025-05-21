@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Ngopi di betuah ga sia sia. Terbuat dari kesabaran.
+  Wisdom Accelerator: Revolutionizing Knowledge, Orchestration, Performance, Learning, AI-Brilliance
 </p>
 
 <p align="center">
