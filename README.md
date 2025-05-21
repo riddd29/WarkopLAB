@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 <h1 align="center"> ☕ WarkopLAB </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
@@ -22,11 +24,9 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [Backers](#backers)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -53,33 +53,46 @@ WarkopLAB adalah platform LMS x AI (_Learning Management System_) berbasis Sprin
 - 📦 API berbasis RESTful
 
 ---
-### Built With
+## Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
+<p align="left">
 <!-- Java -->
-* </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-* <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-* <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-* <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-* <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-* <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<!-- Spring Boot -->
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+  </a>
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<!-- MySql -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<!-- Maven -->
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="maven" width="40" height="40"/>
+  </a>
+<!-- HTML -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<!-- CSS -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+<!-- IntelliJ IDEA -->
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+</a>
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
+<!-- OpenAI -->
+<a href="https://platform.openai.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="openai" width="40" height="40"/>
+</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🧱 Languages and Tools
-<p align="left">    </p> 
-
-| Kategori        | Teknologi                         |
-|----------------|-----------------------------------|
-| Backend         | Spring Boot, Spring Web, Spring Security, Spring Data JPA |
-| Database        | MySQL                             | 
-| ORM             | Hibernate (via Spring Data JPA)   |
-| Dev Tools       | Lombok, Spring Boot DevTools      |
-| Testing         | JUnit, Spring Test                |
-| Build Tool      | Maven                             |
-
----
 
 ## Getting Started
 
