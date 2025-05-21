@@ -1,9 +1,8 @@
 <a id="readme-top"></a>
 
-<h1 align="center"> ☕ WarkopLAB </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/ece8fc1c-7593-47d8-8d1c-5d8fbe262539" width="450">
   </a>
 </p>
 
@@ -41,58 +40,47 @@ WarkopLAB adalah platform LMS x AI (_Learning Management System_) berbasis Sprin
 
 
 # Learning Management System x AI (ChatGPT)
-
----
-## ✨ Fitur
-
-- 🔐 Autentikasi dan otorisasi pengguna (Mahasiswa & Admin)
-- 📚 Manajemen kursus dan materi pembelajaran
-- 🧠 Dukungan fitur AI (evaluasi, umpan balik, dll)
-- 📊 Pelacakan progres belajar & nilai
-- ⚙️ Arsitektur modular dan mudah di-scale
-- 📦 API berbasis RESTful
-
----
 ## Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-<p align="left">
+<br>
+<p align="center">
 <!-- Java -->
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<!-- Spring Boot -->
+</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+<!-- Spring Boot --> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="50" height="50"/>
+</a>
+<!-- Git --> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+<!-- MySql --> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
+<!-- Maven --> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="maven" width="50" height="50"/>
   </a>
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<!-- MySql -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<!-- Maven -->
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="maven" width="40" height="40"/>
-  </a>
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<!-- Postman -->
+<!-- Postman --> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
 </a>
-<!-- IntelliJ IDEA -->
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+<!-- Apache NetBeans --> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="50" height="50"/>
 </a>
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-<!-- OpenAI -->
+<!-- OpenAI --> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://platform.openai.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="openai" width="40" height="40"/>
+<img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="openai" width="50" height="50"/>
 </a>
+<!-- Figma --> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
+</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Features
+A few of the things you can do with GitPoint:
 
+- View and manage learning materials
+- Submit and track assignments
+- Take quizzes or tests
+- See grades and feedback
+- AI assistant integration
 
 ## Getting Started
 
@@ -132,8 +120,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
    http://localhost:8080
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Backers
 
 Thank you to all our backers! 🙏
@@ -166,3 +152,4 @@ Thank you to all our backers! 🙏
 ## Acknowledgments
 
 This project would not have been possible without the inspiration and academic mentorship of Pak Angga. Thank you for guiding us with both knowledge and heart.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
